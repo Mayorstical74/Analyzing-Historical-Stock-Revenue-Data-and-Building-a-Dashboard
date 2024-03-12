@@ -1,4 +1,6 @@
 **Stock Data Analysis: Tesla & GameStop**
+
+
 Introduction
 This project dives into the fascinating world of stock market data, focusing on two high-profile companies: Tesla, Inc. (TSLA) and GameStop Corp. (GME). Through a series of Jupyter notebooks, we explore data extraction techniques, including API usage with yfinance and web scraping, followed by data visualization to uncover insights into stock performance and revenue trends over time.
 
